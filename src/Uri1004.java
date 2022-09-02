@@ -1,3 +1,7 @@
+/**
+Exercicio 1004 beecrowd | Produto Simples | https://www.beecrowd.com.br/judge/pt/problems/view/1004
+*/
+
 import java.util.Scanner;
 
 public class Main {
